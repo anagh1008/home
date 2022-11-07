@@ -44,6 +44,10 @@ function parse_query()
     {
         window.location.href = "https://app.counselmore.com/student/tasks";
     }
+    else if (query[0] === "spotify")
+    {
+        window.location.href = "https://open.spotify.com";
+    }
     else
     {
         let query_string = query.join("+");
