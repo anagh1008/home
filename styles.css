@@ -1,0 +1,56 @@
+body
+{
+  text-align: center;
+  font-family: 'VT323', monospace;
+}
+
+h2
+{
+    font-size: 40px
+}
+
+.desc
+{
+    font-size: 25px;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+h3
+{
+    font-size: 15px;
+}
+
+.search
+{
+    margin: auto;
+    width: 75%;
+    padding: 5px;
+}
+
+.form-control
+{
+    font-size: 25px;
+}
+
+.info
+{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 10;
+}
+
+.br_info
+{
+    display: block;
+    margin-bottom: -5px;
+}
+
+.br_info_index
+{
+    display: block;
+    margin-bottom: -2px;
+}
